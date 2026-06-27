@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "我的个人笔记",
+  title: "Welcome to My Channel~",
   description: "记录我的学习和思考",
   base: '/my-note/', // 改成你的 GitHub 仓库名，如 '/my-note/'
   themeConfig: {
